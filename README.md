@@ -19,7 +19,7 @@ Structure
 /embedding-factorization/  # Word vectors = matrix math
 /utils/                 # Mathematical tools
 Quick Start
-bashgit clone https://github.com/[username]/ai-mathematically-explained
+bashgit clone https://github.com/MLDreamer/AIMathematicallyexplained
 cd ai-mathematically-explained
 pip install -r requirements.txt
 python examples/rag_demo.py
