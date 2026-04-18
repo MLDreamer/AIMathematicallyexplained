@@ -1,0 +1,16 @@
+# Requirements for running notebooks
+
+jupyter
+numpy
+scipy
+pandas
+matplotlib
+torch
+transformers
+
+# Additional libraries that may be useful
+seaborn
+scikit-learn
+statsmodels
+plotly
+requests
